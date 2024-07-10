@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yegi Candra Monanza</h1>
+<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=1726099200&v=beta&t=oTJ5IgfyZBLaBNikLv83o8e9pi_o_FNLVMJQkCK2x1k">
 
-<!--
-**ycandramonanza/ycandramonanza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ycandramonanza&label=Profile%20views&color=0e75b6&style=flat" alt="ycandramonanza" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Android, MERN**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Laravel**
+
+- 📫 How to reach me **candramonanzayegi@gmail.com**
+
+- ⚡ Fun fact **I like coffee**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yegi candra monanza" target="blankhttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg><img align="center" src="￼" alt="yegi candra monanza" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="norefehttps://angular.io/assets/images/logos/angular/angular.shttps://getbootstrap.comgrer"> <img src="￼" althttps://raw.githubusercontent.com/devicons/devicon/master/https://www.chartjs.orgcons/bootstrap/bootstraphttps://www.chartjs.org/media/logo-title.svgplain-wordmahttps://www.w3schools.com/css/k.svg"angular" wihttps://raw.githubusercontent.com/devicons/devicon/mahttps://www.docker.com/ter/icons/css3/css3-orighttps://raw.githubusercontent.com/devicons/devicon/masthttps://expressjs.comr/icons/docker/docker-orighttps://raw.githubusercontent.com/devicons/devicon/mastehttps://www.figma.com//icons/express/express-orhttps://www.vectorlogo.zone/logos/figma/figma-icon.svghttps://firebase.google.com/inal-wordmark.svgnahttps://www.vectorlogo.zone/logos/firebase/firebase-icon.https://cloud.google.comvg-wordmark.svgnal-wordhttps://www.vectorlogo.zone/logos/google_cloud/googlhttps://git-scm.com/_cloud-icon.svgark.svgth="4https://www.vectorlogo.zone/logos/git-scm/git-scm-ichttps://www.w3.org/html/n.svg" height="40"/> </https://raw.githubusercontent.com/devicons/devicon/mashttps://developer.mozilla.org/en-US/docs/Web/Jahttps://raw.githubusercontent.com/devicons/devicon/master/ihttps://laravel.com/ons/javascript/javascript-ohttps://raw.githubusercontent.com/devicons/devicon/mastehttps://www.linux.org//icons/laravel/laravel-plhttps://raw.githubusercontent.com/devicons/devicon/mashttps://www.mysql.com/er/icons/linux/linux-orighttps://raw.githubusercontent.com/devicons/devicon/mashttps://nextjs.org/er/icons/mysql/mysql-originahttps://cdn.worldvectorlogo.com/logos/nextjs-2.svg-wordhttps://www.nginx.comark.svgnal.svgin-wordmark.https://raw.githubusercontent.com/devicons/devicon/mashttps://nodejs.orger/icons/nginx/nginx-originalhttps://raw.githubusercontent.com/devicons/devicon/masthttps://www.php.netr/icons/nodejs/nodejs-originhttps://raw.githubusercontent.com/devicons/devicon/mhttps://www.postgresql.orgster/icons/php/php-orhttps://raw.githubusercontent.com/devicons/devicon/master/ihttps://postman.comons/postgresql/postgresql-orhttps://www.vectorlogo.zone/logos/getpostman/getpostman-https://reactnative.dev/con.svgginal-wordmark.shttps://reactnative.dev/img/header_logo.svggginal.svgl-wordmhttps://redis.iork.svgsvgvgiginal.svgaScripter/https://raw.githubusercontent.com/devicons/devicon/mashttps://sass-lang.comer/icons/redis/redis-origihttps://raw.githubusercontent.com/devicons/devicon/mahttps://www.selenium.devter/icons/sass/sass-orihttps://raw.githubusercontent.com/detain/svg-logos/780f25https://tailwindcss.com/86640cef088af994181646dhttps://www.vectorlogo.zone/logos/tailwindcss/tailwindcsshttps://www.typescriptlang.org/icon.svg2f6b1a3fhttps://raw.githubusercontent.com/devicons/devicon/master/ihttps://vuejs.org/ons/typescript/typescript-orihttps://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svginal.svg/svg/selenium-logo.svginal.svgal-wordmark.svgcons/html5/html5-original-wordmark.svg> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="bootstrap" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="chartjs" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="css3" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="docker" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="express" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="figma" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="firebase" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="gcp" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="git" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="html5" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="javascript" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="laravel" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="linux" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="mysql" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="nextjs" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="nginx" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="nodejs" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="php" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="postgresql" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="postman" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="reactnative" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="redis" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="sass" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="selenium" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="tailwind" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="typescript" width="40" height="40"/> </a> <a href="￼" target="_blank" rel="noreferrer"> <img src="￼" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ycandramonanza&show_icons=true&locale=en&layout=compact" alt="ycandramonanza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ycandramonanza&show_icons=true&locale=en" alt="ycandramonanza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycandramonanza&" alt="ycandramonanza" /></p>
