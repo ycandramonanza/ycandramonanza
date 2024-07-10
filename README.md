@@ -12,11 +12,6 @@
 
 - ⚡ Fun fact **I like coffee**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yegi candra monanza" target="blankhttps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg><img align="center" src="￼" alt="yegi candra monanza" height="30" width="40" /></a>
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ycandramonanza&show_icons=true&locale=en" alt="ycandramonanza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ycandramonanza&" alt="ycandramonanza" /></p>
